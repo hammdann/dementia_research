@@ -10,5 +10,5 @@ Multimodal models consistently outperformed unimodal approaches across all algor
 
 **Notebook and Table Structures**
 
-Data were organised using schemas, tables, and volumes within the platform. Without the correct structure of the datasets, the code will produce errors and cannot be executed.
+Data were organised using schemas, tables, and volumes within the selected platform. Without the correct structure of the datasets, the code will produce errors and cannot be executed.
 
